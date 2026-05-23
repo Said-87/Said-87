@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Said Ul Amin! 👋
 
-<!--
-**Said-87/Said-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate software developer focused on building clean, efficient, and well-structured applications. I enjoy diving into backend logic, object-oriented design, and optimizing algorithms to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on web development 
-- 🌱 I’m currently learning programming languages 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: saidulamin062@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🏥 [Hospital Management System](https://github.com/Said-87/Hospital-Management-System)
+* **Language:** Java
+* **Core Focus:** Object-Oriented Programming (OOP)
+* **Description:** A robust system designed to manage patient tracking, doctor scheduling, and billing using strong OOP design principles like Inheritance, Encapsulation, and Polymorphism.
+
+### 👮 [Police Station Management System](https://github.com/Said-87/Police-Station-DSA-CPP)
+* **Language:** C++
+* **Core Focus:** Data Structures & Algorithms (DSA)
+* **Description:** A high-performance console application utilizing optimal data structures—including Priority Queues for emergency dispatches, Doubly Linked Lists for records, and Hash Maps for instant $O(1)$ lookups.
+
+---
+
+## 🛠️ Tech Stack & Skills
+* **Languages:** C++, Java, JavaScript
+* **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+* **Web Basics:** CSS, HTML
+
+---
+
+## 📬 Connect with Me
+* 📧 Email: saidulamin062@gmail.com
+* 💻 Check out my repositories to see what else I'm working on!
+
+*"Striving to write code that is not just functional, but clean and efficient."*
