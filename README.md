@@ -1,6 +1,6 @@
 # Hi there, I'm Said Ul Amin! 👋
 
-Welcome to my GitHub profile! I am a passionate software developer focused on building clean, efficient, and well-structured applications. I enjoy diving into backend logic, object-oriented design, and optimizing algorithms to solve real-world problems.
+Welcome to my GitHub profile! I am a vigorous software developer focused on building clean, efficient, and well-structured applications. I enjoy dipping into backend logic, object-oriented design, and optimizing algorithms to solve real-world problems.
 
 ---
 
