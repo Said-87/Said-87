@@ -1,32 +1,206 @@
-# Hi there, I'm Said Ul Amin! 👋
+# Hi there! 👋 I'm Said Ul Amin
 
-Welcome to my GitHub profile! I am a vigorous software developer focused on building clean, efficient, and well-structured applications. I enjoy dipping into backend logic, object-oriented design, and optimizing algorithms to solve real-world problems.
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 [Hospital Management System](https://github.com/Said-87/Hospital-Management-System)
-* **Language:** Java
-* **Core Focus:** Object-Oriented Programming (OOP)
-* **Description:** A robust system designed to manage patient tracking, doctor scheduling, and billing using strong OOP design principles like Inheritance, Encapsulation, and Polymorphism.
-
-### 👮 [Police Station Management System](https://github.com/Said-87/Police-Station-DSA-CPP)
-* **Language:** C++
-* **Core Focus:** Data Structures & Algorithms (DSA)
-* **Description:** A high-performance console application utilizing optimal data structures—including Priority Queues for emergency dispatches, Doubly Linked Lists for records, and Hash Maps for instant $O(1)$ lookups.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
-* **Languages:** C++, Java, JavaScript
-* **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
-* **Web Basics:** CSS, HTML
+## 🚀 About Me
+
+I'm **Said Ul Amin**, a **Bachelor of Computer Science (BSCS)** student passionate about creating modern web applications and exploring Artificial Intelligence.
+
+I enjoy solving real-world problems through software development and continuously improving my programming skills. My interests include full-stack development, AI-powered applications, clean UI design, and backend systems.
+
+Currently, I'm working on projects involving:
+
+- 🌐 Full Stack Web Development
+- 🤖 AI & Machine Learning
+- 💻 Software Engineering
+- 📚 Library Management System
+- 📱 Responsive UI/UX Design
+- ⚡ JavaScript & Python Projects
 
 ---
 
-## 📬 Connect with Me
-* 📧 Email: saidulamin062@gmail.com
-* 💻 Check out my repositories to see what else I'm working on!
+# 🛠 Tech Stack
 
-*"Striving to write code that is not just functional, but clean and efficient."*
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,npm" />
+</p>
+
+---
+
+# 📖 Currently Learning
+
+- Advanced JavaScript
+- React & Next.js
+- Node.js & Express
+- MongoDB
+- REST APIs
+- Artificial Intelligence
+- Machine Learning
+- Python Automation
+- System Design
+
+---
+
+# 📌 Featured Projects
+
+## 📚 Library Management System
+
+A modern library website featuring:
+
+- Responsive UI
+- OPAC Search
+- Book Catalog
+- Student Dashboard
+- Admin Panel
+- Modern Design
+- Clean Architecture
+
+---
+
+## 🤖 AI FAQ Assistant
+
+An intelligent chatbot capable of:
+
+- Answering FAQs
+- Keyword Matching
+- AI Responses
+- Confidence Scores
+- Fast Retrieval
+
+---
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing:
+
+- Projects
+- Skills
+- Education
+- Certificates
+- Contact Information
+- Responsive Design
+
+---
+
+# 🎯 Goals for 2026
+
+- Build production-ready Full Stack applications
+- Learn advanced AI and Machine Learning
+- Contribute to Open Source
+- Complete impactful internship projects
+- Strengthen Data Structures & Algorithms
+- Explore Cloud Computing
+- Build scalable backend systems
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Said-87&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said-87&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Said-87&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Said-87&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Said-87&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+
+<a href="https://github.com/Said-87">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/said-ul-amin062/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://saidulamin,dev" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:saidulamin062@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Said-87&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories.
+</p>
