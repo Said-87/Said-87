@@ -6,11 +6,13 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm **Said Ul Amin**, a **Bachelor of Computer Science (BSCS)** student passionate about creating modern web applications and exploring Artificial Intelligence.
+I'm **Said Ul Amin**, a Computer Science student who enjoys building web applications that solve real problems.
 
-I enjoy solving real-world problems through software development and continuously improving my programming skills. My interests include full-stack development, AI-powered applications, clean UI design, and backend systems.
+I like working across the full stack—from designing responsive interfaces to building APIs and databases—and I'm currently expanding my skills in Artificial Intelligence and Machine Learning.
+
+Outside of coding, I'm always learning something new, improving existing projects, and exploring better ways to write clean, maintainable software.
 
 Currently, I'm working on projects involving:
 
@@ -167,6 +169,22 @@ Personal portfolio showcasing:
 > "The best way to predict the future is to build it."
 
 ---
+
+## 🌐 Portfolio
+
+My portfolio showcases my projects, technical skills, certifications, and experience.
+
+🔗 **Visit Here:**  
+**https://YOUR-PORTFOLIO-URL.com**
+
+### You'll find:
+
+- 🚀 Featured Projects
+- 💻 Technical Skills
+- 📚 Education
+- 📜 Certificates
+- 📄 Resume
+- 📬 Contact Information
 
 # 🤝 Let's Connect
 
