@@ -1,224 +1,256 @@
-# Hi there! 👋 I'm Said Ul Amin
+<h1 align="center">Hi, I'm Said Ul Amin 👋</h1>
+
+<h3 align="center">
+Computer Science Student · Full-Stack Developer · AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Practical+Web+Applications;Exploring+Artificial+Intelligence+%26+Machine+Learning;Learning+Data+Structures+%26+Algorithms;Turning+Ideas+Into+Real+Projects"
+    alt="Typing introduction"
+  />
+</p>
+
+<p align="center">
+  <a href="https://saidulamin.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Said-87">
+    <img src="https://img.shields.io/badge/GitHub-Said--87-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/said-ul-amin062/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saidulamin062@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Said Ul Amin**, a Computer Science student who enjoys building web applications that solve real problems.
+I'm **Said Ul Amin**, a Computer Science student focused on building practical, responsive, and user-friendly software.
 
-I like working across the full stack—from designing responsive interfaces to building APIs and databases—and I'm currently expanding my skills in Artificial Intelligence and Machine Learning.
+I enjoy working across the full development stack—from designing clean interfaces to developing APIs, managing databases, and integrating intelligent features. Alongside web development, I am expanding my knowledge of **Artificial Intelligence, Machine Learning, automation, and software engineering**.
 
-Outside of coding, I'm always learning something new, improving existing projects, and exploring better ways to write clean, maintainable software.
+My goal is to continuously improve as a developer by building real projects, solving programming problems, and writing clean, maintainable code.
 
-Currently, I'm working on projects involving:
-
-- 🌐 Full Stack Web Development
-- 🤖 AI & Machine Learning
-- 💻 Software Engineering
-- 📚 Library Management System
-- 📱 Responsive UI/UX Design
-- ⚡ JavaScript & Python Projects
+* 🔭 Building full-stack, AI, and internship projects
+* 🌱 Learning advanced JavaScript, React, Next.js, Node.js, and Machine Learning
+* 🧠 Strengthening Data Structures and Algorithms through LeetCode
+* 🤝 Interested in internships, collaborations, and open-source opportunities
+* 📫 Reach me at **[saidulamin062@gmail.com](mailto:saidulamin062@gmail.com)**
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" alt="Programming languages" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js" alt="Frontend technologies" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend technologies" />
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases" />
 </p>
 
-### Tools & Technologies
+### Tools and Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,npm" alt="Development tools" />
 </p>
 
 ---
 
-# 📖 Currently Learning
+## 📖 Currently Learning
 
-- Advanced JavaScript
-- React & Next.js
-- Node.js & Express
-- MongoDB
-- REST APIs
-- Artificial Intelligence
-- Machine Learning
-- Python Automation
-- System Design
-
----
-
-# 📌 Featured Projects
-
-## 📚 Library Management System
-
-A modern library website featuring:
-
-- Responsive UI
-- OPAC Search
-- Book Catalog
-- Student Dashboard
-- Admin Panel
-- Modern Design
-- Clean Architecture
+* Advanced JavaScript and modern ES features
+* React and Next.js
+* Node.js and Express
+* MongoDB and database design
+* REST API development
+* Artificial Intelligence and Machine Learning
+* Python automation
+* Data Structures and Algorithms
+* System design fundamentals
+* Clean code and software architecture
 
 ---
 
-## 🤖 AI FAQ Assistant
+## 🚀 Featured Projects
 
-An intelligent chatbot capable of:
+### 📚 Library Management System
 
-- Answering FAQs
-- Keyword Matching
-- AI Responses
-- Confidence Scores
-- Fast Retrieval
+A modern and responsive library platform designed to simplify access to books, library services, and administrative tools.
 
----
+**Key features:**
 
-## 🌐 Portfolio Website
+* Online Public Access Catalog search
+* Book browsing and catalog management
+* Student dashboard
+* Administrative panel
+* Responsive navigation and layouts
+* Modern user interface
+* Maintainable project structure
 
-Personal portfolio showcasing:
-
-- Projects
-- Skills
-- Education
-- Certificates
-- Contact Information
-- Responsive Design
+**Focus:** Full-stack development, responsive design, library automation, and user experience.
 
 ---
 
-# 🎯 Goals for 2026
+### 🤖 AI FAQ Assistant
 
-- Build production-ready Full Stack applications
-- Learn advanced AI and Machine Learning
-- Contribute to Open Source
-- Complete impactful internship projects
-- Strengthen Data Structures & Algorithms
-- Explore Cloud Computing
-- Build scalable backend systems
+An intelligent FAQ assistant that retrieves relevant information and produces fast, helpful responses.
+
+**Key features:**
+
+* Frequently asked question handling
+* Keyword and intent matching
+* AI-generated responses
+* Confidence scoring
+* Fast information retrieval
+* Fallback handling for unsupported questions
+
+**Focus:** Artificial intelligence, natural language processing, Python, and automation.
 
 ---
 
-# 📊 GitHub Statistics
+### 🌐 Personal Portfolio Website
+
+A responsive personal portfolio developed to present my technical background and professional work.
+
+**Included sections:**
+
+* Featured projects
+* Technical skills
+* Education
+* Internship experience
+* Certifications
+* Resume
+* Contact information
+
+🔗 **Live website:** [saidulamin.dev](https://saidulamin.dev)
+
+**Focus:** Personal branding, frontend development, responsive UI, and project presentation.
+
+---
+
+## 🎯 Goals for 2026
+
+* Build production-ready full-stack applications
+* Develop practical AI and Machine Learning projects
+* Improve problem-solving and algorithmic thinking
+* Contribute to open-source projects
+* Complete impactful internship assignments
+* Learn cloud computing and deployment
+* Build scalable backend systems
+* Strengthen software engineering fundamentals
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Said-87&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said-87&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Said-87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Said Ul Amin's GitHub statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said-87&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most-used programming languages"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Said-87&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Said-87&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Said-87&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Said-87&theme=tokyo-night&hide_border=true"
+    alt="GitHub contribution graph"
+  />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Said-87&theme=tokyo-night"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Said-87&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"
+    alt="GitHub trophies"
+  />
 </p>
-
----
-
-# 💡 Quote
-
-> "The best way to predict the future is to build it."
 
 ---
 
 ## 🌐 Portfolio
 
-My portfolio showcases my projects, technical skills, certifications, and experience.
+My portfolio includes my projects, skills, education, internship experience, certifications, resume, and contact details.
 
-🔗 **Visit Here:**  
-**https://saidulamin.dev**
+<p align="center">
+  <a href="https://saidulamin.dev">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" />
+  </a>
+</p>
 
-### You'll find:
+---
 
-- 🚀 Featured Projects
-- 💻 Technical Skills
-- 📚 Education
-- 📜 Certificates
-- 📄 Resume
-- 📬 Contact Information
+## 🤝 Connect With Me
 
-# 🤝 Let's Connect
-
-<p>
-
-<a href="https://github.com/Said-87">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-
-<a href="https://www.linkedin.com/in/said-ul-amin062/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://saidulamin,dev" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:saidulamin062@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/Said-87">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/said-ul-amin062/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://saidulamin.dev">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:saidulamin062@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Said-87&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=Said-87&label=Profile%20Views&color=2563eb&style=flat-square"
+    alt="Profile view counter"
+  />
 </p>
 
----
+<p align="center">
+  <strong>“The best way to predict the future is to build it.”</strong>
+</p>
 
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories.
+  ⭐ Explore my repositories and consider starring the projects you find useful.
 </p>
