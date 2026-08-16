@@ -69,37 +69,74 @@ Tools & Platforms
 
 🚀 Featured Projects
 
-📚 Koha Library Management System
+<p align="center">
+  A selection of projects that reflect my work in full-stack development, AI, and automation.
+</p>
 
-A customized library platform built around Koha, with a modern and responsive OPAC experience.
-
-Highlights: responsive interface, catalog search, campus navigation, book discovery, admin workflows, and a reusable Koha theme plugin.
-
-Koha JavaScript CSS Linux MySQL
-
-🧠 PakConnect Telecom RAG Knowledge Assistant
-
-An AI knowledge assistant that retrieves information from approved telecom documents and produces grounded answers with supporting sources.
-
-Highlights: document processing, text chunking, vector retrieval, source-aware responses, and refusal of unsupported questions.
-
-Python ChromaDB OpenAI API RAG Prompt Engineering
-
-🤖 Safex AI Assistant
-
-A WhatsApp automation assistant designed to detect incoming messages and generate fast, relevant replies.
-
-Highlights: browser automation, message processing, automated responses, and a Flask-based application workflow.
-
-Python Flask Selenium Pandas NumPy
-
-📈 AI Automation ROI Calculator
-
-A practical calculator that helps organizations estimate the time and cost savings of adopting AI-powered automation.
-
-Highlights: configurable business inputs, transparent formulas, comparison scenarios, and client-friendly results.
-
-JavaScript HTML CSS Business Analysis
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Koha Library Management System</h3>
+      <p>A customized library platform with a modern, responsive OPAC experience for students and staff.</p>
+      <ul>
+        <li>Responsive catalog and book-discovery interface</li>
+        <li>Campus navigation and administrative workflows</li>
+        <li>Reusable Koha theme packaged as a plugin</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Koha-0B3D91?style=flat-square" alt="Koha" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Telecom RAG Knowledge Assistant</h3>
+      <p>An AI assistant that retrieves approved telecom information and returns grounded, source-aware answers.</p>
+      <ul>
+        <li>Document cleaning, chunking, and indexing</li>
+        <li>Semantic retrieval using a vector database</li>
+        <li>Source citations and unsupported-query refusal</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=flat-square" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+        <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square" alt="RAG" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Safex AI Assistant</h3>
+      <p>A WhatsApp automation assistant that detects incoming messages and generates fast, relevant replies.</p>
+      <ul>
+        <li>Automated browser and messaging workflows</li>
+        <li>Message processing and response generation</li>
+        <li>Flask-based application structure</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 AI Automation ROI Calculator</h3>
+      <p>A client-focused calculator for estimating the time and cost savings created by AI-powered automation.</p>
+      <ul>
+        <li>Configurable business and staffing inputs</li>
+        <li>Transparent savings calculations</li>
+        <li>Comparison scenarios and clear results</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://saidulamin.dev">
@@ -109,42 +146,92 @@ JavaScript HTML CSS Business Analysis
 
 📚 Currently Learning
 
-Advanced JavaScript  •  React & Next.js  •  Node.js & Express
-REST APIs             •  MongoDB         •  AI & Machine Learning
-Python Automation     •  System Design   •  Data Structures & Algorithms
+Learning Track
 
-🎯 2026 Focus
+Technologies & Concepts
 
-Build and deploy production-ready full-stack applications
+🌐 Modern Frontend
 
-Develop practical AI and machine-learning projects
+Advanced JavaScript, React, Next.js, responsive UI architecture
 
-Strengthen problem-solving through Data Structures and Algorithms
+⚙️ Backend Development
 
-Contribute meaningfully to open-source projects
+Node.js, Express, REST APIs, authentication, MongoDB
 
-Gain hands-on industry experience through internships
+🤖 AI & Automation
 
-Explore cloud platforms and scalable backend architecture
+Machine-learning fundamentals, RAG systems, Python automation
+
+🧩 Computer Science
+
+Data Structures, Algorithms, System Design, problem-solving patterns
+
+🎯 2026 Roadmap
+
+Priority
+
+Focus Area
+
+Target Outcome
+
+01
+
+Full-Stack Development
+
+Build and deploy applications with responsive interfaces, APIs, authentication, and databases.
+
+02
+
+AI & Machine Learning
+
+Ship practical AI solutions with grounded outputs, useful evaluation, and clear documentation.
+
+03
+
+Problem Solving
+
+Build consistency in Data Structures and Algorithms through regular practice.
+
+04
+
+Open Source
+
+Contribute useful fixes, documentation, or features to real projects.
+
+05
+
+Industry Experience
+
+Complete a meaningful software or AI internship and document the results.
+
+06
+
+Cloud & Scalability
+
+Learn deployment workflows and the foundations of scalable backend systems.
 
 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Said-87">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Said-87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Said's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Said-87?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said-87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Said's most-used languages" />
+  </a>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Said-87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Said's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said-87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Said's most-used languages" />
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Said-87&theme=tokyonight&hide_border=true" alt="Said's GitHub contribution streak" />
+</p>
 
-<br />
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Said-87&theme=tokyo-night&hide_border=true&area=true" alt="Said's GitHub activity graph" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Said-87&theme=tokyonight&hide_border=true" alt="Said's GitHub contribution streak" />
-
-<br />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Said-87&theme=tokyo-night&hide_border=true&area=true" alt="Said's GitHub activity graph" />
-
-</div>
-
-Note: The language card reflects public repository code and does not represent my complete skill level.
+<p align="center">
+  <sub>Language statistics are based on public repository code and do not represent my complete skill level.</sub>
+</p>
 
 🤝 Let's Connect
 
